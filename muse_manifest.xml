@@ -1,0 +1,44 @@
+<manifest alg="2" build="6" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1435297653030">
+  <folder name="css">
+    <file name="site_global.css" crc="426517801"/>
+    <file name="master_a-master.css" crc="266498032" ref="techout:projects:work-experience:index:education"/>
+    <file name="techout.css" crc="411180926" ref="techout"/>
+    <file name="projects.css" crc="411180926" ref="projects"/>
+    <file name="work-experience.css" crc="411180926" ref="work-experience"/>
+    <file name="index.css" crc="411180926" ref="index"/>
+    <file name="education.css" crc="411180926" ref="education"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4021225061" ref="techout:projects:education:work-experience:index"/>
+    <file name="museutils.js" crc="4136605575" ref="techout:projects:education:work-experience:index"/>
+    <file name="pie.js" crc="3827607177" ref="techout"/>
+    <file name="jquery.musemenu.js" crc="4009181048" ref="techout:projects:education:work-experience:index"/>
+    <file name="jquery.watch.js" crc="172956391" ref="techout:projects:education:work-experience:index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="techout:projects:education:work-experience:index"/>
+  </folder>
+  <folder name="images">
+    <file name="bg.jpg" crc="4154639781" ref="techout:projects:education:work-experience:index"/>
+    <file name="blank.gif" crc="4208392903" ref="techout:projects:education:work-experience:index"/>
+    <file name="u159.png" crc="3972262967" ref="techout:projects:education:work-experience:index"/>
+    <file name="u159-r.png" crc="4260767627" ref="techout:projects:education:work-experience:index"/>
+    <file name="u159-m.png" crc="4260767627" ref="techout:projects:education:work-experience:index"/>
+    <file name="u159-a.png" crc="3779928674" ref="techout:projects:education:work-experience:index"/>
+    <file name="u207.png" crc="407423480" ref="techout:projects:education:work-experience:index"/>
+    <file name="u207-r.png" crc="94059602" ref="techout:projects:education:work-experience:index"/>
+    <file name="u207-m.png" crc="94059602" ref="techout:projects:education:work-experience:index"/>
+    <file name="u207-a.png" crc="119075593" ref="techout:projects:education:work-experience:index"/>
+    <file name="u216.png" crc="4286958491" ref="techout:projects:education:work-experience:index"/>
+    <file name="u216-r.png" crc="4227337624" ref="techout:projects:education:work-experience:index"/>
+    <file name="u216-m.png" crc="4227337624" ref="techout:projects:education:work-experience:index"/>
+    <file name="u216-a.png" crc="373790121" ref="techout:projects:education:work-experience:index"/>
+    <file name="u222.png" crc="13196288" ref="techout:projects:education:work-experience:index"/>
+    <file name="u222-r.png" crc="436236299" ref="techout:projects:education:work-experience:index"/>
+    <file name="u222-m.png" crc="436236299" ref="techout:projects:education:work-experience:index"/>
+    <file name="u222-a.png" crc="3931431101" ref="techout:projects:education:work-experience:index"/>
+  </folder>
+  <file name="techout.html" crc="4238431879" mt="1435297503017" redirect="true"/>
+  <file name="projects.html" crc="4104037601" mt="1435297503019" redirect="true"/>
+  <file name="education.html" crc="4213717646" mt="1435297503020" redirect="true"/>
+  <file name="work-experience.html" crc="527461363" mt="1435297503022" redirect="true"/>
+  <file name="index.html" crc="471578132" mt="1435297503023" redirect="true"/>
+</manifest>
