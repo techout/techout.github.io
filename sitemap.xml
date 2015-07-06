@@ -1,140 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://techout.github.io/images/bg.jpg</loc>
-    <lastmod>2015-06-26</lastmod>
+    <loc>http://techout.github.io/images/github-mark-light-120px-plus.png</loc>
+    <lastmod>2015-07-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://techout.github.io/images/blank.gif</loc>
-    <lastmod>2015-06-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://techout.github.io/images/u159.png</loc>
-    <lastmod>2015-06-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://techout.github.io/images/u159-r.png</loc>
-    <lastmod>2015-06-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://techout.github.io/images/u159-m.png</loc>
-    <lastmod>2015-06-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://techout.github.io/images/u159-a.png</loc>
-    <lastmod>2015-06-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://techout.github.io/images/u207.png</loc>
-    <lastmod>2015-06-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://techout.github.io/images/u207-r.png</loc>
-    <lastmod>2015-06-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://techout.github.io/images/u207-m.png</loc>
-    <lastmod>2015-06-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://techout.github.io/images/u207-a.png</loc>
-    <lastmod>2015-06-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://techout.github.io/images/u216.png</loc>
-    <lastmod>2015-06-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://techout.github.io/images/u216-r.png</loc>
-    <lastmod>2015-06-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://techout.github.io/images/u216-m.png</loc>
-    <lastmod>2015-06-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://techout.github.io/images/u216-a.png</loc>
-    <lastmod>2015-06-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://techout.github.io/images/u222.png</loc>
-    <lastmod>2015-06-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://techout.github.io/images/u222-r.png</loc>
-    <lastmod>2015-06-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://techout.github.io/images/u222-m.png</loc>
-    <lastmod>2015-06-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://techout.github.io/images/u222-a.png</loc>
-    <lastmod>2015-06-26</lastmod>
+    <loc>http://techout.github.io/images/twitterlogo_white.png</loc>
+    <lastmod>2015-07-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://techout.github.io/techout.html</loc>
-    <lastmod>2015-06-26</lastmod>
+    <lastmod>2015-07-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://techout.github.io/projects.html</loc>
-    <lastmod>2015-06-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://techout.github.io/education.html</loc>
-    <lastmod>2015-06-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://techout.github.io/work-experience.html</loc>
-    <lastmod>2015-06-26</lastmod>
+    <lastmod>2015-07-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://techout.github.io/index.html</loc>
-    <lastmod>2015-06-26</lastmod>
+    <lastmod>2015-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://techout.github.io/experience.html</loc>
+    <lastmod>2015-07-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

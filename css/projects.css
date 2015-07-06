@@ -1,171 +1,211 @@
 .version.projects /* version checker */
 {
-	color: #000018;
-	background-color: #821F7E;
+	color: #000019;
+	background-color: #ABFF88;
 }
 
 .html
 {
-	background: #FFFFFF url("../images/bg.jpg") repeat left top scroll;
+	background-color: #FFFFFF;
 }
 
 #page
 {
 	z-index: 1;
 	width: 1060px;
-	min-height: 481px;
+	min-height: 500px;
 	background-image: none;
 	border-style: none;
-	border-color: #000000;
+	border-color: transparent;
 	background-color: transparent;
-	padding-bottom: 19px;
 	margin-left: auto;
 	margin-right: auto;
 }
 
-#u134
+#u234
+{
+	z-index: 7;
+	height: 50px;
+	top: 0px;
+}
+
+#u234-bw
+{
+	z-index: 7;
+}
+
+#u266
+{
+	z-index: 27;
+	width: 50px;
+	height: 50px;
+	margin-right: -10000px;
+}
+
+#menuu235
+{
+	z-index: 8;
+	width: 356px;
+	margin-right: -10000px;
+	margin-top: 10px;
+	left: 75px;
+}
+
+#u236
+{
+	width: 107px;
+	min-height: 30px;
+	margin-right: -10000px;
+}
+
+#u237
+{
+	width: 107px;
+	padding-bottom: 13px;
+}
+
+#u237:hover
+{
+	margin: 0px;
+}
+
+#u240-4
+{
+	width: 62px;
+	min-height: 17px;
+	margin-right: -10000px;
+	top: 6px;
+	left: 22px;
+}
+
+#u237:hover #u240-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u250
+{
+	width: 114px;
+	min-height: 30px;
+	margin-right: -10000px;
+	left: 109px;
+}
+
+#u251
+{
+	width: 114px;
+	padding-bottom: 13px;
+}
+
+#u253-4
+{
+	width: 70px;
+	min-height: 17px;
+	margin-right: -10000px;
+	top: 6px;
+	left: 22px;
+}
+
+#u237.MuseMenuActive #u240-4,#u251:hover #u253-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u257
+{
+	width: 131px;
+	min-height: 30px;
+	margin-right: -10000px;
+	left: 225px;
+}
+
+#u258
+{
+	width: 131px;
+	padding-bottom: 13px;
+}
+
+#u237.MuseMenuActive,#u251.MuseMenuActive,#u258.MuseMenuActive
+{
+	margin: 0px;
+}
+
+#u260-4
+{
+	width: 87px;
+	min-height: 17px;
+	margin-right: -10000px;
+	top: 6px;
+	left: 22px;
+}
+
+#u251.MuseMenuActive #u253-4,#u258:hover #u260-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u258.MuseMenuActive #u260-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u305
+{
+	z-index: 28;
+	width: 50px;
+	margin-right: -10000px;
+	left: 860px;
+}
+
+#u323
+{
+	z-index: 30;
+	width: 50px;
+	margin-right: -10000px;
+	left: 925px;
+}
+
+#u265
 {
 	z-index: 2;
-	width: 1020px;
-	margin-right: -10000px;
-	margin-top: 20px;
-	left: 20px;
+	padding-bottom: 20px;
 }
 
-#menuu149
+#u265_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 1060px;
+	left: -100px;
+}
+
+#u267-4
 {
 	z-index: 3;
-	width: 759px;
-	margin-right: -10000px;
-	margin-top: 46px;
-	left: 260px;
-}
-
-#u157
-{
-	width: 161px;
-	min-height: 34px;
-	margin-right: -10000px;
-}
-
-#u158
-{
-	width: 160px;
-	padding-bottom: 5px;
-}
-
-#u158.MuseMenuActive
-{
-	width: 160px;
-	min-height: 0px;
-	margin: 0px;
-}
-
-#u159
-{
-	height: 29px;
-	width: 80px;
-	margin-right: -10000px;
-	top: 2px;
-	left: 40px;
-}
-
-#u204
-{
-	width: 162px;
-	min-height: 34px;
-	margin-right: -10000px;
-	left: 163px;
-}
-
-#u205
-{
-	width: 161px;
-	padding-bottom: 5px;
-}
-
-#u205.MuseMenuActive
-{
-	width: 161px;
-	min-height: 0px;
-	margin: 0px;
-}
-
-#u207
-{
-	height: 29px;
-	width: 81px;
-	margin-right: -10000px;
-	top: 2px;
-	left: 40px;
-}
-
-#u211
-{
-	width: 251px;
-	min-height: 34px;
-	margin-right: -10000px;
-	left: 327px;
-}
-
-#u214
-{
 	width: 250px;
-	padding-bottom: 5px;
-}
-
-#u214.MuseMenuActive
-{
-	width: 250px;
-	min-height: 0px;
-	margin: 0px;
-}
-
-#u216
-{
-	height: 29px;
-	width: 170px;
+	min-height: 15px;
 	margin-right: -10000px;
-	top: 2px;
-	left: 40px;
+	margin-top: 15px;
+	left: 505px;
 }
 
-#u218
+#u265-bw
 {
-	width: 179px;
-	min-height: 34px;
-	margin-right: -10000px;
-	left: 580px;
-}
-
-#u219
-{
-	width: 179px;
-	padding-bottom: 5px;
-}
-
-#u219.MuseMenuActive
-{
-	margin: 0px;
-}
-
-#u222
-{
-	height: 29px;
-	width: 100px;
-	margin-right: -10000px;
-	top: 2px;
-	left: 39px;
-}
-
-#u232
-{
-	z-index: 32;
-	width: 1019px;
-	height: 41px;
-	margin-right: -10000px;
-	margin-top: 438px;
-	left: 20px;
+	z-index: 2;
+	margin-top: 480px;
+	height: 30px;
 }
 
 body
@@ -177,6 +217,6 @@ body
 #page .verticalspacer
 {
 	clear: both;
-	margin-bottom: -438px;
+	margin-bottom: -480px;
 }
 
